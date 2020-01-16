@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      Pixyll has Pagination
-date:       2014-06-08 11:21:29
-summary:    This is an empty post to illustrate the pagination component with Pixyll.
+title:      첫번째 글이다 야호!!
+date:       2020-01-16 01:00:29
+summary:    써머리는 요약
 categories: jekyll pixyll
 ---
 
-This is an empty post to illustrate the pagination component with Pixyll.
+용지기 사랑해
